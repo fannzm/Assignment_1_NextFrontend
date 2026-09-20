@@ -11,7 +11,7 @@ Node.js
 npm available with Node.js
 
 2. Installation:
-Download the project.
+Download/Clone the project.
 Navigate to project directory:
 
 `cd <project-folder>`
