@@ -31,6 +31,7 @@ The terminal will dislay a local URL where the application is available. Open th
 Click +1 to increase the counter by 1.
 Click -1 to decrease the counter by 1.
 The application automatically displays double the current counter value.
+Click Reset to reset the counter back to 0.
 
 5. Project structure
 App.vue imports and displays the Counter component. The counter logic is implemented in Counter.vue. 
