@@ -10,7 +10,7 @@ The counter can be increased or decreased using two buttons. The application als
 Node.js
 npm available with Node.js
 
-2. Installation
+2. Installation:
 Download the project.
 Navigate to project directory:
 
@@ -20,19 +20,20 @@ Install the prject dependencies:
 
 `npm install`
 
-3. Run application
+3. Run application:
 start the development server with:
 
 `npm run dev`
 
 The terminal will dislay a local URL where the application is available. Open the URL in your browser.
 
-4. How to use
+4. How to use:
 Click +1 to increase the counter by 1.
 Click -1 to decrease the counter by 1.
 The application automatically displays double the current counter value.
+Click Reset to reset the counter back to 0.
 
-5. Project structure
+5. Project structure:
 App.vue imports and displays the Counter component. The counter logic is implemented in Counter.vue. 
 
 
